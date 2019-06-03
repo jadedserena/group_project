@@ -2,3 +2,12 @@ div.carousel-inner {
   height: 55vh;
 
 }
+
+p1 {
+  text-align: center;
+  text-transform: uppercase;
+  justify-content: center;
+  letter-spacing: 10px;
+  font-size: 30px;
+
+}
