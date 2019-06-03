@@ -11,3 +11,14 @@ p1 {
   font-size: 30px;
 
 }
+
+.container {
+  position: relative;
+}
+
+.text-block {
+
+  text-align: center;
+  color: black;
+
+}
