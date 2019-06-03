@@ -4,7 +4,7 @@ div.carousel-inner {
 }
 
 p1 {
-
+  text-align: center;
   text-transform: uppercase;
   justify-content: center;
   letter-spacing: 10px;
