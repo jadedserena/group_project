@@ -23,6 +23,10 @@ p1 {
 
 }
 
+div.title {
+  justify-content: center;
+}
+
 .btn.btn.btn-primary {
   background-color: #ff6600;
   border: none;
