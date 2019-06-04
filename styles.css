@@ -26,5 +26,11 @@ p1 {
 .btn.btn.btn-primary {
   background-color: #ff6600;
   border: none;
-  
+
+}
+
+div.form-group {
+  padding-top: 10px;
+  padding-left: 80px;
+  padding-right: 80px;
 }
