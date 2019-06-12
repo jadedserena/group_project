@@ -1,0 +1,21 @@
+p1 {
+
+  text-transform: uppercase;
+  justify-content: center;
+  padding-left: 500px;
+  letter-spacing: 10px;
+  font-size: 30px;
+
+}
+
+.container {
+  position: relative;
+}
+
+a {
+  color: green;
+}
+
+a:hover {
+  color: pink;
+}
