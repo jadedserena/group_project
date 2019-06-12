@@ -55,3 +55,8 @@ p3 {
   padding-left: 150px;
 
 }
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
