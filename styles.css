@@ -42,21 +42,8 @@ div.form-group {
   padding-right: 80px;
 }
 
-btn.Submit {
-
-  padding-left: 90px;
-}
-
-p3 {
-  font-size: 30px;
-  font-style: italic;
-  font-weight: bolder;
+footer {
+  height: 100px;
   text-align: center;
-  padding-left: 150px;
-
-}
-
-h1 {
-  text-transform: uppercase;
-  letter-spacing: 10px;
+  padding: 10px 20px;
 }
