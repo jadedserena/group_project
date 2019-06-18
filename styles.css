@@ -135,3 +135,9 @@ p2 {
   font-style: italic;
 
 }
+
+label.form-check-label {
+  font-size: 15px;
+  font-style: italic;
+  color: black;
+}
