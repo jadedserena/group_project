@@ -31,13 +31,15 @@ div.title {
 
 
 .btn.btn.btn-primary {
-  background-color: #ff6600;
+  background-color: #000000;
   border: none;
+  margin-left: 550px;
+  position: relative;
 
 }
 
 div.form-group {
-  padding-top: 10px;
+  padding-top: 30px;
   padding-left: 80px;
   padding-right: 80px;
 }
@@ -121,4 +123,15 @@ h3 {
   padding-top: 25px;
   letter-spacing: 10px;
   font-size: 30px;
+}
+
+p2 {
+  justify-content: center;
+  padding-left: 500px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+
 }
