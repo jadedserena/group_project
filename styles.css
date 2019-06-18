@@ -113,3 +113,12 @@ p4 {
   font-size: 15px;
   padding-bottom: 30px;
 }
+
+h3 {
+  text-transform: uppercase;
+  justify-content: center;
+  padding-left: 300px;
+  padding-top: 25px;
+  letter-spacing: 10px;
+  font-size: 30px;
+}
